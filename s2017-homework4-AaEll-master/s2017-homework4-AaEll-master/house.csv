@@ -1,0 +1,8 @@
+street_address,price,beds,baths,sqft,price/sqft,prop type,county,community,built,parking,air conditioning,kitchen,dishwasher,laundry,heating,maintenance,elevator,stairs,refrigerator,furnished
+86 Jersey St #42,474900USD,1,1,538,$883 / Sq. Ft.,Condominium,Suffolk,The Fenway,1920,,,True,,True,,,,,,
+24-30 Peterborough St #23,429000USD,1,1,476,$901 / Sq. Ft.,Condominium,Suffolk,The Fenway,1900,,,True,,,,,,,,
+64 Queensberry St #312,369000USD,1,1,360,$1025 / Sq. Ft.,Condominium,Suffolk,Boston,1910,,,True,True,,,,,,,
+849 Beacon #2,549000USD,1,1,550,$998 / Sq. Ft.,Condominium,Suffolk,Boston,1920,,,,,,,,,,,
+566 Commonwealth Ave #1002,749900USD,2,2,"1,255",$598 / Sq. Ft.,Co-op,Suffolk,Kenmore Square,1968,True,,,,,,,,,,
+131 Park Dr Unit G2,640000USD,3,1,812,$788 / Sq. Ft.,Condominium,Suffolk,The Fenway,1910,,True,True,True,True,True,,True,,,
+188 Brookline Ave Unit 19-2 K,1635900USD,2,2,"1,148",$1425 / Sq. Ft.,Condominium,Suffolk,The Fenway,2018,,,True,,,,,,,,

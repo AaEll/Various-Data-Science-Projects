@@ -1,0 +1,12 @@
+chromedriver
+csv_urls.txt
+Failed_zips.csv
+ghostdriver.log
+MAhouses2.csv
+output
+Used_zips.csv
+vcsa
+zipcodes.txt
+.csv
+.gitignore.txt
+.MAhouses.py.swp
