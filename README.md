@@ -1,5 +1,5 @@
 # Various-Data-Science-Projects
-Data Science projects for a class I took. This is only my 4th CS class taken, so this is rougher and hackier compared to my code now.
+Data Science projects for a class I took. This is from my 4th CS class taken, so this is rougher and hackier compared to my code now.
 
 This repository includes my own code and markdown cells written by the professor to guide us.
 
